@@ -1,5 +1,5 @@
 # VDN: Variant-Depth Network for Efficient Motion Deblurring via Scale Invariance
-by Cai Guo, Qian Wang, [Hong-Ning Dai](https://www.henrylab.net), [Ping Li](https://web.comp.polyu.edu.hk/pinli/).
+by Cai Guo, Qian Wang, [Hong-Ning Dai](https://www.henrylab.net), [Ping Li](https://www.comp.polyu.edu.hk/~pinli).
 
 Pytorch Implementation of CASA2022 "VDN: Variant-Depth Network for Efficient Motion Deblurring via Scale Invariance"
 ![Pipeline of VDN](./docs/VDN.png)
