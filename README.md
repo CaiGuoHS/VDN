@@ -13,7 +13,7 @@ Pytorch Implementation of CASA2022 "VDN: Variant-Depth Network for Efficient Mot
 ## Dependencies
 python
 ```
-conda create -n vdn python=3.7
+conda create -n vdn python=3.8
 conda activate vdn
 ```
 pytorch
