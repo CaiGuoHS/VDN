@@ -26,3 +26,16 @@ Please copy test samples into './test_samples'. Then running the following comma
 ```
 python test.py
 ```
+
+## Citation
+If you think this work is useful for your research, please cite the following paper.
+
+```
+@article{guovdn,
+title = {VDN: Variant-depth network for motion deblurring},
+author = {Guo, Cai and Wang, Qian and Dai, Hong-Ning and Li, Ping},
+journal = {Computer Animation and Virtual Worlds},
+pages = {e2066},
+doi = {https://doi.org/10.1002/cav.2066}
+}
+```
