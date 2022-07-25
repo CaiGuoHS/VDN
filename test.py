@@ -11,7 +11,7 @@ device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 torch.backends.cudnn.benchmark = True if torch.cuda.is_available() else False
 
 TEST_SAMPLES = './test_samples'
-TEST_RESULTS = './test_resutls'
+TEST_RESULTS = './test_results'
 
 def save_images(images, name):
     filename = TEST_RESULTS + '/' + name
