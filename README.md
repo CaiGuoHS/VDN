@@ -35,6 +35,8 @@ If you think this work is useful for your research, please cite the following pa
 title = {VDN: Variant-depth network for motion deblurring},
 author = {Guo, Cai and Wang, Qian and Dai, Hong-Ning and Li, Ping},
 journal = {Computer Animation and Virtual Worlds},
+volume = {33},
+number = {3-4},
 pages = {e2066},
 publisher={Wiley Online Library},
 doi = {https://doi.org/10.1002/cav.2066}
